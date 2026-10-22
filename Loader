@@ -1,0 +1,10 @@
+--[[
+    Syntax Hub- Our Games
+]] 
+
+getgenv().supported= {
+    [107778070777162] = "https://raw.githubusercontent.com/AhmadBestFr/Syntax-Hub/refs/heads/main/Steal%20and%20egg", -- Steal An Egg
+    [3623096087] = "https://raw.githubusercontent.com/AhmadBestFr/Syntax-Hub/refs/heads/main/Muscle%20legend%20Main", -- Muscle Legends
+    [75992362647444] = "https://raw.githubusercontent.com/AhmadBestFr/Syntax-Hub/refs/heads/main/Tap%20Simulator", -- Tap Simulator
+    [72858262610964] = "https://raw.githubusercontent.com/silencedevs/SilenceScripts/refs/heads/main/Scripts/TapSimulatorReborn/Main.luau", -- Tap Simulator Reborn
+}
